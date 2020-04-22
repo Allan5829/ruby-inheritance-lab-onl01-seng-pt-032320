@@ -1,8 +1,6 @@
 class User 
   
-  def initialize (first, last)
-    @first_name = first
-    @last_name = last 
+  def initialize
   end 
   
   def first_name
